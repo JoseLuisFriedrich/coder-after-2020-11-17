@@ -3,7 +3,7 @@ https://youtu.be/Mxd4vxF9s68
 
 [![José Luis Friedrich](https://img.youtube.com/vi/Mxd4vxF9s68/0.jpg)](https://youtu.be/Mxd4vxF9s68)
 
-# Resolviendo dudas
+# Consultas generales
 
 00:00:00 Resolviendo un error de estudiante (estaba usando useParams de React cuando se tiene que importar de react-router-dom)
 
